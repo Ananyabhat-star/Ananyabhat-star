@@ -99,14 +99,17 @@ Building web applications, backend systems, and exploring AI-powered solutions �
 
 ## 🚀 Featured Projects
 
-🌿 Federated Learning for Crop Disease Detection and Prediction
+### 🌿 Federated Learning for Crop Disease Detection and Prediction
 
-A machine learning project focused on crop disease detection using federated learning and image classification.
+A machine learning project that uses federated learning and image classification to detect crop diseases.
 
+🔗 View Project: https://github.com/Ananyabhat-star/Federated_learning_Crop_Disease_Detection
 
-👟 Sneakers Rating Prediction
+### 👟 Sneakers Rating Prediction
 
 A machine learning web application that predicts whether a sneaker is likely to receive a high rating based on product features.
+
+🔗 View Project: https://github.com/Ananyabhat-star/Sneakers_Rating_Prediction
 
 ## 🎯 Career Interests
 
