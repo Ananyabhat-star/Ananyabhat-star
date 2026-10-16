@@ -19,6 +19,9 @@ Building web applications, backend systems, and exploring AI-powered solutions �
 
 📫 Connect with me on LinkedIn
 
+📫 Reach me at ananyabhat07@gmail.com
+
+
 
 🛠️ Languages & Technologies
 
