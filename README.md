@@ -96,6 +96,15 @@ Building web applications, backend systems, and exploring AI-powered solutions �
 **Git • GitHub • VS Code • Postman • Docker**
 
 
+## 📚 Currently Learning
+
+- 💻 Improving problem-solving and Data Structures & Algorithms
+- 🌐 Building better full-stack web applications
+- ⚙️ Strengthening backend development and REST API skills
+- 🗄️ Practicing SQL and database management
+- 🚀 Learning best practices for Git and GitHub
+
+
 
 ## 🚀 Featured Projects
 
