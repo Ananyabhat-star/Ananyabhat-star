@@ -5,6 +5,7 @@
 Building web applications, backend systems, and exploring AI-powered solutions 🤖
 
 
+
 ## 👩‍💻 About Me
 
 🎓 MCA graduate from PES University, Bengaluru
@@ -23,31 +24,77 @@ Building web applications, backend systems, and exploring AI-powered solutions �
 
 
 
+
 ## 🛠️ Languages & Technologies
 
-💻 Programming Languages
+### 💻 Programming Languages
 
-Java • Python • JavaScript • C
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,html,css&theme=light" />
+</p>
 
-🎨 Frontend Development
+<p align="left">
+  <strong>Python • Java • JavaScript • SQL • HTML5 • CSS3</strong>
+</p>
 
-HTML • CSS • React.js • Bootstrap • Tailwind CSS
 
-⚙️ Backend Development
+### 🎨 Frontend Development
 
-Node.js • Express.js • Flask
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=light" />
+</p>
 
-🗄️ Databases
+<p align="left">
+  <strong>HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Tailwind CSS</strong>
+</p>
 
-SQL • MySQL • MongoDB
 
-🤖 Machine Learning
 
-TensorFlow • Keras • Scikit-learn • MobileNetV2
+### ⚙️ Backend Development
 
-🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,django&theme=light" align="left" />
+</p>
 
-Git • GitHub • VS Code
+<br clear="left" />
+
+**Node.js • Flask • FastAPI • Django • REST APIs**
+
+
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light" align="left" />
+</p>
+
+<br clear="left" />
+
+**MySQL • MongoDB • SQLite**
+
+
+
+### 🤖 Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=light" align="left" />
+</p>
+
+<br clear="left" />
+
+**Machine Learning • Deep Learning • TensorFlow • Keras • Scikit-learn • MobileNetV2**
+
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light" align="left" />
+</p>
+
+<br clear="left" />
+
+**Git • GitHub • VS Code • Postman • Docker**
+
 
 
 ## 🚀 Featured Projects
