@@ -18,8 +18,6 @@ Building web applications, backend systems, and exploring AI-powered solutions �
 
 🤝 Interested in collaborating on practical software development projects
 
-📫 Connect with me on LinkedIn
-
 📫 Reach me at ananyabhat07@gmail.com
 
 
