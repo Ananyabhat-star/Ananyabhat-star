@@ -1,11 +1,11 @@
-Hi 👋, I'm Ananya Karunakar Bhat
+# Hi 👋, I'm Ananya Karunakar Bhat
 
-Full Stack Developer | Software Development | Backend Developer
+## Full Stack Developer | Software Development | Java Developer
 
 Building web applications, backend systems, and exploring AI-powered solutions 🤖
 
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 MCA graduate from PES University, Bengaluru
 
@@ -23,7 +23,7 @@ Building web applications, backend systems, and exploring AI-powered solutions �
 
 
 
-🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies
 
 💻 Programming Languages
 
@@ -50,7 +50,7 @@ TensorFlow • Keras • Scikit-learn • MobileNetV2
 Git • GitHub • VS Code
 
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 🌿 Federated Learning for Crop Disease Detection and Prediction
 
@@ -61,7 +61,7 @@ A machine learning project focused on crop disease detection using federated lea
 
 A machine learning web application that predicts whether a sneaker is likely to receive a high rating based on product features.
 
-🎯 Career Interests
+## 🎯 Career Interests
 
 Software Development
 
@@ -73,7 +73,7 @@ Python Development
 
 Backend Development
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/ananya-bhat-0838a3346 
 
